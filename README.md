@@ -1,6 +1,6 @@
 ### Tableau AirBnB Data Analysis Project
 
-**Dashboard Link:** https://public.tableau.com/app/profile/sohit.mahato/viz/AirBnBFullProject_17272432801900/AirBnBDashboard
+[Dashboard Link](https://public.tableau.com/app/profile/sohit.mahato/viz/AirBnBFullProject_17272432801900/AirBnBDashboard)
 
 **Description:**
 Developed an interactive Tableau dashboard to analyze AirBnB listing data, providing valuable insights into pricing trends and listing distributions. The dashboard includes:
